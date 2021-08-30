@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="file-home.jpeg">resources/home.jpeg</file>
+    <file alias="file-back.jpeg">resources/back.jpeg</file>
+    <file alias="file-next.jpeg">resources/next.jpeg</file>
+    <file alias="file-help.jpeg">resources/help.jpeg</file>
+</qresource>
+</RCC>
